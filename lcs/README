@@ -1,0 +1,29 @@
+This program is about writing a function that will return the longest common (discontiguous) subsequence of two Strings.
+
+This project is build using sbt
+One can run this program as follows
+
+Step 1. Change the current directory to project directory
+-> cd lcs
+
+Step 2. Fire the sbt command
+➜  lcs sbt
+[info] Loading global plugins from /Users/arithmeticbird/.sbt/0.13/plugins
+[info] Loading project definition from /Users/arithmeticbird/lcs/project
+[info] Set current project to lcs (in build file:/Users/arithmeticbird/lcs/)
+
+Step 3. On sbt prompt execute the command "run <string1> <string2>"
+For example,
+
+> run AABACDA DACBBCAD
+[info] Running Program AABACDA DACBBCAD
+Result is: ABCA
+[success] Total time: 1 s, completed 18 Jun, 2017 7:13:50 AM
+>
+
+The solution uses dynamic programing. This problem is actually NP-Hard problem for arbitrary number of input sequence.
+but when number is constant, it is solvable in polynomial time(like our case)
+
+With dynamic programing, for two sequence of m and n elements the running time is O(mn)
+
+We have also used memoization to avoid the repetition.

@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0m[32mExpressionTestSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression will not evaluate if first number is greater than second operand in Mul[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression is evaluated correctly with Mul if first operand is less then the second[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression is not evaluated if first operand is 1 in Mul[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression is not evaluated if first operand is less than the second in Sub[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression is not evaluated if any operand in Mul is 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression is evaluated correctly if first operand > second oprand in sub[0m[0m
+[0m[[0minfo[0m] [0m[32m- An expression is not evaluated if first operand > second in Add[0m[0m
+[0m[[0minfo[0m] [0m[32m- subsequence of a list[0m[0m
+[0m[[0minfo[0m] [0m[32m- choices of a list[0m[0m
+[0m[[0minfo[0m] [0m[32m- split returns all possible ways of splitting a list into two non-empty lists[0m[0m

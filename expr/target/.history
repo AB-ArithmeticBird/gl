@@ -1,0 +1,26 @@
+run 1,2,3,4 10
+run 1,2 10
+run 1,2,3,4 10
+choices(List(1,2))
+scala
+console
+test
+compile
+test
+console
+test
+val ex = Other(Mul, Number(12),Other(Add, Number(13), Number(14)))
+ Other(Mul, Number(12),Other(Add, Number(13), Number(14)))
+scala
+val ex = Other(Mul, Number(12),Other(Add, Number(13), Number(14)))
+console
+test
+scala
+console
+test
+run 1,2,3,4,5,6,7 28
+run 1,2,3,4,5,6,7,8 36
+compile
+run 1,2,3,4,5,6,7,8 36
+rin 1,2,3 6
+run 1,2,3 6

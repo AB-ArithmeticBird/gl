@@ -1,0 +1,44 @@
+This project is solution of 2nd question in the test.
+it can be used in the following manne
+Step 1. Change the current directory to project directory
+➜  ~ cd expr
+
+Step 2. Fire the sbt command
+➜  expr sbt
+[info] Loading global plugins from /Users/arithmeticbird/.sbt/0.13/plugins
+[info] Loading project definition from /Users/arithmeticbird/expr/project
+[info] Set current project to expr (in build file:/Users/arithmeticbird/expr/)
+
+Step 3. Now execute the program with run <comma seperated list of numbers> <result>
+For example,
+
+> run 1,2,3,4 10
+[info] Compiling 2 Scala sources to /Users/arithmeticbird/expr/target/scala-2.12/classes...
+[info] Running Program 1,2,3,4 10
+((3  *  4)  -  2)
+(4  +  (2  *  3))
+(2  *  (1  +  4))
+((3  +  (2  *  4))  -  1)
+(3  +  ((2  *  4)  -  1))
+(4  +  (3  +  (1  +  2)))
+(4  +  (2  +  (1  +  3)))
+(2  +  (4  +  (1  +  3)))
+(4  +  ((1  +  2)  +  3))
+(4  +  (1  +  (2  +  3)))
+((1  +  4)  +  (2  +  3))
+(1  +  (4  +  (2  +  3)))
+(3  +  (2  +  (1  +  4)))
+((2  +  3)  +  (1  +  4))
+(2  +  ((3  -  1)  *  4))
+(2  +  (3  +  (1  +  4)))
+((3  -  1)  +  (2  *  4))
+(3  +  ((1  +  2)  +  4))
+(3  +  (1  +  (2  +  4)))
+((1  +  3)  +  (2  +  4))
+(1  +  (3  +  (2  +  4)))
+(2  +  ((1  +  3)  +  4))
+(2  +  (1  +  (3  +  4)))
+((1  +  2)  +  (3  +  4))
+(1  +  (2  +  (3  +  4)))
+
+The program has been written in a functional way. There is no muatation. for more documentation see  Test2.scala
