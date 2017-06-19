@@ -4,3 +4,9 @@ run a a
 run ab bc
 run AABACDA DACBBCAD
 run ABC BCAJK
+run ASD DFG
+test
+compile
+test
+compile
+test
