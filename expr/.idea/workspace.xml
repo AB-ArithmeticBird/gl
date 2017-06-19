@@ -9,54 +9,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../lcs/target/scala-2.12/classes/Program$.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../lcs/target/scala-2.12/classes/Program$delayedInit$body.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../lcs/target/scala-2.12/classes/Program.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterPath="$PROJECT_DIR$/../lcs/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/../lcs/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterPath="$PROJECT_DIR$/../lcs/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/../lcs/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="$PROJECT_DIR$/../lcs/target/streams/compile/$global/$global/discoveredMainClasses/data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/.idea/modules/lcs.iml" afterPath="$PROJECT_DIR$/../lcs/.idea/modules/lcs.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../lcs/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/build.sbt" afterPath="$PROJECT_DIR$/../lcs/build.sbt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/.history" afterPath="$PROJECT_DIR$/../lcs/target/.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs$sources_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs$sources_2.12/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs$sources_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs$sources_2.12/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs_2.12/1.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs_2.12/1.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs_2.12/1.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/default/lcs_2.12/1.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-docs.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-plugin.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-pom.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-sources.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs$sources_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-compile.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-docs.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-optional.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-plugin.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-pom.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-provided.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-runtime.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-sources.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-test.xml" afterPath="$PROJECT_DIR$/../lcs/target/resolution-cache/reports/default-lcs_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/../lcs/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/../lcs/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/../lcs/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/../lcs/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/../lcs/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/compile/run/$global/streams/out" afterPath="$PROJECT_DIR$/../lcs/target/streams/compile/run/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../lcs/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lcs/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/../lcs/target/streams/test/managedClasspath/$global/streams/export" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1047,7 +1002,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10240000" />
+    <option name="totallyTimeSpent" value="10261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="613" y="194" width="1440" height="834" extended-state="0" />
