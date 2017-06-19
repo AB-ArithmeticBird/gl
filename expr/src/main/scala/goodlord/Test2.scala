@@ -1,3 +1,5 @@
+package goodlord
+
 
 object Test2 {
 

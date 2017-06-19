@@ -20,26 +20,26 @@ name hashing:
 0 -> true
 products:
 14 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Program$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Program$delayedInit$body.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Program.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Add$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Expr.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Mul$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Number$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Number.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Op.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Other$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Other.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Sub$.class
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Program$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Program$delayedInit$body.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Program.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Add$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Expr.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Mul$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Number$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Number.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Op.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Other$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Other.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Sub$.class
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2.class
 binary dependencies:
 4 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> /Users/arithmeticbird/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> /Users/arithmeticbird/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> /Users/arithmeticbird/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> /Users/arithmeticbird/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -50,7 +50,7 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 1 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> /Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -59,221 +59,223 @@ inheritance external dependencies:
 0 items
 class names:
 14 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Program
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Program$
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Program$delayedInit$body
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Add$
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Expr
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Mul$
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Number
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Number$
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Op
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Other
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Other$
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2$Sub$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> goodlord.Program
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> goodlord.Program$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> goodlord.Program$delayedInit$body
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Add$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Expr
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Mul$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Number
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Number$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Op
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Other
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Other$
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord.Test2$Sub$
 used names:
-179 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> <init>
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> ==
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Any
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> AnyRef
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> App
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Array
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> ArrayOps
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> B
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Boolean
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> CanBuildFrom
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> ClassTag
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Expr
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Function1
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Int
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> List
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Nil
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Nothing
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Object
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Predef
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Program
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Seq
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> String
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> StringOps
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> T
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Test2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> That
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> U
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> Unit
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> _$4
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> apply
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> args
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> augmentString
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> canBuildFrom
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> collection
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> foreach
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> immutable
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> intArrayOps
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> length
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> list
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> map
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> materializeClassTag
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> ofInt
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> ofRef
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> package
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> println
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> refArrayOps
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> reflect
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> result
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> scala
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> solution
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> solutions
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> split
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> toInt
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> toList
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> !=
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> &
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> &&
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> *
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> +
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> -
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ::
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> :::
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> <=
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> <init>
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> <repeated>
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ==
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> >
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> A
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> AbstractFunction1
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> AbstractFunction3
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Add
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Any
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> AnyRef
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> B
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Boolean
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> CanBuildFrom
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Coll
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Expr
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> FilterMonadic
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Function1
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> GenTraversableOnce
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> IndexOutOfBoundsException
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Int
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Iterator
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> List
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> MatchError
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Mul
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Nil
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> None
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Nothing
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Number
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Object
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Op
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Option
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Other
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Predef
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Product
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Result
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ScalaRunTime
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Serializable
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Some
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Statics
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> String
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Sub
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> T
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> T0
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> T1
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> T2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> T3
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Test2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> That
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Tuple2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> Tuple3
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> _1
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> _2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> _3
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> _hashCode
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> _root_
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> a
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> app
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> apply
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> asInstanceOf
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> b
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> c
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> canBuildFrom
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> choices
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> collection
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> combinations
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> combine
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> e
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> e1
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> e2
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> empty
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> eq
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> eval
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> finalizeHash
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> flatMap
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> get
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> head
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> immutable
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> isEmpty
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> isInstanceOf
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> l
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> lengthCompare
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> list
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ls
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> m
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> map
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> mix
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> n
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ne
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ns
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> nss
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> num
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> o
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> op
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ops
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> package
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> permutations
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> r
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> results
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> rs
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> runtime
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> scala
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> split
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> sub
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> tailComb
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> toString
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> typedProductIterator
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> unapplySeq
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> unary_!
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> unchecked
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> valid
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> value
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> withFilter
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> x
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> xs
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> y
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> ||
+181 items
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> <init>
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> ==
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Any
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> AnyRef
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> App
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Array
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> ArrayOps
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> B
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Boolean
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> CanBuildFrom
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> ClassTag
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Expr
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Function1
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Int
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> List
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Nil
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Nothing
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Object
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Predef
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Program
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Seq
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> String
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> StringOps
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> T
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Test2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> That
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> U
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> Unit
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> _$4
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> apply
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> args
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> augmentString
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> canBuildFrom
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> collection
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> foreach
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> goodlord
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> immutable
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> intArrayOps
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> length
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> list
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> map
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> materializeClassTag
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> ofInt
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> ofRef
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> package
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> println
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> refArrayOps
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> reflect
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> result
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> scala
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> solution
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> solutions
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> split
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> toInt
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> toList
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> !=
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> &
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> &&
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> *
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> +
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> -
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ::
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> :::
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> <=
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> <init>
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> <repeated>
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ==
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> >
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> A
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> AbstractFunction1
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> AbstractFunction3
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Add
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Any
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> AnyRef
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> B
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Boolean
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> CanBuildFrom
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Coll
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Expr
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> FilterMonadic
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Function1
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> GenTraversableOnce
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> IndexOutOfBoundsException
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Int
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Iterator
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> List
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> MatchError
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Mul
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Nil
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> None
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Nothing
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Number
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Object
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Op
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Option
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Other
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Predef
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Product
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Result
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ScalaRunTime
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Serializable
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Some
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Statics
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> String
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Sub
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> T
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> T0
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> T1
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> T2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> T3
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Test2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> That
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Tuple2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> Tuple3
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> _1
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> _2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> _3
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> _hashCode
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> _root_
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> a
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> app
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> apply
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> asInstanceOf
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> b
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> c
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> canBuildFrom
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> choices
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> collection
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> combinations
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> combine
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> e
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> e1
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> e2
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> empty
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> eq
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> eval
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> finalizeHash
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> flatMap
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> get
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> goodlord
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> head
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> immutable
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> isEmpty
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> isInstanceOf
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> l
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> lengthCompare
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> list
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ls
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> m
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> map
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> mix
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> n
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ne
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ns
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> nss
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> num
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> o
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> op
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ops
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> package
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> permutations
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> r
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> results
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> rs
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> runtime
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> scala
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> split
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> sub
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> tailComb
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> toString
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> typedProductIterator
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> unapplySeq
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> unary_!
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> unchecked
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> valid
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> value
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> withFilter
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> x
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> xs
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> y
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> ||
 product stamps:
 14 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Program$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Program$delayedInit$body.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Program.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Add$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Expr.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Mul$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Number$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Number.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Op.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Other$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Other.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2$Sub$.class -> lastModified(1497825984000)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/Test2.class -> lastModified(1497825984000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Program$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Program$delayedInit$body.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Program.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Add$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Expr.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Mul$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Number$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Number.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Op.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Other$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Other.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2$Sub$.class -> lastModified(1497866460000)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/target/scala-2.12/classes/goodlord/Test2.class -> lastModified(1497866460000)
 source stamps:
 2 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> hash(6abc77213d079df32af0f29b070cf92562aa6945)
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> hash(d0f4de53dc3afcb21b115ab3aea4f16d57822aa9)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> hash(addc39d3e205be0427a1af628d63133a48acc559)
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> hash(10d7f84ed6c791a4ec39146d2472acf29bc5c9c7)
 binary stamps:
 2 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
@@ -281,23 +283,23 @@ binary stamps:
 class names:
 2 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
-/Users/arithmeticbird/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Serializable
+/Users/arithmeticbird/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.runtime.AbstractFunction3
 internal apis:
 2 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw059+pwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw63btAnQABm5vdGlmeXNxAH4ADN/LSwJ0AAR3YWl0c3EAfgAMHNTzMHQADSRhc0luc3RhbmNlT2ZzcQB+AAxDlHijdAAGZXF1YWxzc3EAfgAMl++Em3QADGFzSW5zdGFuY2VPZnNxAH4ADL4S8/h0AA5leGVjdXRpb25TdGFydHNxAH4ADBVsOKB0AAxzeW5jaHJvbml6ZWRzcQB+AAxWaV+ldAANJGlzSW5zdGFuY2VPZnNxAH4ADIxxYV10AARtYWluc3EAfgAM3/ITX3QAB1Byb2dyYW1zcQB+AAwKrlWddAAJbm90aWZ5QWxsc3EAfgAMHnIFJXQADGlzSW5zdGFuY2VPZnNxAH4ADKmL9Ql0AAI9PXNxAH4ADMA5lht0AAVjbG9uZXNxAH4ADFGnueJ0AAYkaW5pdCRzcQB+AAxAYGYidAAIdG9TdHJpbmdzcQB+AAxBzmpMdAAEYXJnc3NxAH4ADNcBjE10AAIhPXNxAH4ADGnZe8N0AAhnZXRDbGFzc3NxAH4ADIDr2iN0AAJuZXNxAH4ADN/gALB0AAJlcXNxAH4ADOzsvbx0AAtkZWxheWVkSW5pdHNxAH4ADEOQtZ50AAIjI3NxAH4ADMfdLOB0AAhmaW5hbGl6ZXNxAH4ADF+tomV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AIXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGdzcQB+AGJ1cQB+AEQAAAAAc3EAfgBidXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgBxeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGZ0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ai3NxAH4AVgBxAH4AH3VxAH4AWAAAAABzcQB+AH50AARVbml0cQB+AIR1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBxeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBbdAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Af1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AZnNxAH4AfnQABUFycmF5cQB+AIR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AfnQABlN0cmluZ3NxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIp0AARqYXZhc3EAfgCKdAAEbGFuZ3EAfgCPc3EAfgBidXEAfgCmAAAABHNxAH4AfnQAA0FwcHEAfgCEc3EAfgB+dAALRGVsYXllZEluaXRxAH4AhHNxAH4AfnQABk9iamVjdHEAfgCqc3EAfgB+dAADQW55cQB+AIR1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL1iqt91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGL1VzZXJzL2FyaXRobWV0aWNiaXJkL0Ryb3Bib3gvR29vZExvcmRzL2V4cHIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGq8dyE9B53zKvDymwcM+SViqmlF
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpHWStAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA7c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwwIWFcnQABm5vdGlmeXNxAH4ADAEKDSp0AAd1bmFwcGx5c3EAfgAMtTaEP3QAB2N1cnJpZWRzcQB+AAwYiGlEdAAJc29sdXRpb25zc3EAfgAMQciAa3QABU90aGVyc3EAfgAMS5dM9nQABHdhaXRzcQB+AAyDs92XdAAOY29weSRkZWZhdWx0JDJzcQB+AAw7XM5rdAANJGFzSW5zdGFuY2VPZnNxAH4ADEPCoKh0AAdjb21wb3Nlc3EAfgAMtZ2PfXQAAmUxc3EAfgAMgZATG3QADHByb2R1Y3RBcml0eXNxAH4ADItvIml0AAdjaG9pY2Vzc3EAfgAM9ioh13QABmVxdWFsc3NxAH4ADARg2LN0AAZOdW1iZXJzcQB+AAz3sEIBdAADQWRkc3EAfgAMRKVzbnQADGFzSW5zdGFuY2VPZnNxAH4ADNR7IzJ0AARFeHByc3EAfgAMQoA8RXQADHN5bmNocm9uaXplZHNxAH4ADBNf2rV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMGnKJcHQAB2FuZFRoZW5zcQB+AAxvWlkTdAAGdHVwbGVkc3EAfgAMuqHb1nQAAk9wc3EAfgAMM32kpXQACGNhbkVxdWFsc3EAfgAMXn16P3QAA011bHNxAH4ADKOh3t90AA1wcm9kdWN0UHJlZml4c3EAfgAMeRyXrXQACW5vdGlmeUFsbHNxAH4ADGy18jB0AANvcHNzcQB+AAxdh0NXdAAMaXNJbnN0YW5jZU9mc3EAfgAM6Ruo2HQABGV2YWxzcQB+AAxi+RjbdAAGPGluaXQ+c3EAfgAMwCDfY3QAB3Jlc3VsdHNzcQB+AAzSiqRjdAAMY29tYmluYXRpb25zc3EAfgAMUXZzL3QABWFwcGx5c3EAfgAMRVECj3QAAj09c3EAfgAMabfMZ3QABXNwbGl0c3EAfgAMmW7FFXQABWNsb25lc3EAfgAMh96hEXQABiRpbml0JHNxAH4ADB22N010AAV2YWxpZHNxAH4ADCMN36d0AAdjb21iaW5lc3EAfgAM4jkzPXQAA1N1YnNxAH4ADHFaHkh0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADP2icd90AARjb3B5c3EAfgAM558wBnQAA2FwcHNxAH4ADIjZLZ50AAh0b1N0cmluZ3NxAH4ADDwG1u50AAIhPXNxAH4ADN7RRMx0AAVUZXN0MnNxAH4ADArG+Ol0AAhnZXRDbGFzc3NxAH4ADKLxak90AA5jb3B5JGRlZmF1bHQkMXNxAH4ADFFnWy90AAZSZXN1bHRzcQB+AAy1J87FdAACZTJzcQB+AAwW8qHOdAACbmVzcQB+AAwBLrIUdAAFdmFsdWVzcQB+AAxEA1sadAACZXFzcQB+AAzqSQeMdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMiSyby3QAAiMjc3EAfgAM7h7EdHQACGZpbmFsaXplc3EAfgAMwELUIHQAAW9zcQB+AAz7ugDtdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAywCbPHdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AjUwACWluaGVyaXRlZHEAfgCNTAAHcGFyZW50c3EAfgCNeHEAfgCpc3EAfgCkdXEAfgCIAAAAAHNxAH4ApHVxAH4AiAAAAABzcQB+AKR1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMJzcQB+ALV0AANBbnlzcQB+ALlzcQB+ALx1cQB+AL8AAAACc3EAfgDBdAAFc2NhbGFxAH4AyHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcvWKq33VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvYXJpdGhtZXRpY2JpcmQvRHJvcGJveC9Hb29kTG9yZHMvZXhwci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU0PTeU9w6/LIbEVqzrqTxbVeCKqk=
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwWF83gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsetRQnQABm5vdGlmeXNxAH4ADMPzIVl0AAR3YWl0c3EAfgAMz1OJiHQADSRhc0luc3RhbmNlT2ZzcQB+AAzylWlXdAAGZXF1YWxzc3EAfgAMqS/itXQADGFzSW5zdGFuY2VPZnNxAH4ADHZBeOd0AA5leGVjdXRpb25TdGFydHNxAH4ADADclFx0AAxzeW5jaHJvbml6ZWRzcQB+AAwGqAZ6dAANJGlzSW5zdGFuY2VPZnNxAH4ADHEFxIV0AARtYWluc3EAfgAM7ZgN+3QAB1Byb2dyYW1zcQB+AAwJV660dAAJbm90aWZ5QWxsc3EAfgAMN16KynQADGlzSW5zdGFuY2VPZnNxAH4ADDkHw3p0AAI9PXNxAH4ADOXg5aN0AAVjbG9uZXNxAH4ADIrVTa50AAYkaW5pdCRzcQB+AAwwHvfBdAAIdG9TdHJpbmdzcQB+AAyiFHTfdAAEYXJnc3NxAH4ADKMEfNt0AAIhPXNxAH4ADLV+wuV0AAhnZXRDbGFzc3NxAH4ADPAOTRZ0AAJuZXNxAH4ADIn1Odt0AAJlcXNxAH4ADOU6HoR0AAtkZWxheWVkSW5pdHNxAH4ADNGnA690AAIjI3NxAH4ADOu4z4B0AAhmaW5hbGl6ZXNxAH4ADMTgW/R0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABBnb29kbG9yZC5Qcm9ncmFtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AElMAAlpbmhlcml0ZWRxAH4ASUwAB3BhcmVudHNxAH4ASXhxAH4AaHNxAH4AY3VxAH4ARAAAAABzcQB+AGN1cQB+AEQAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEpxAH4AU3VxAH4AVAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHJ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgBWAHEAfgAfdXEAfgBZAAAAAHNxAH4Af3QABFVuaXRxAH4AhXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHJ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFx0AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCAWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB/dAAFQXJyYXlxAH4AhXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB/dAAGU3RyaW5nc3EAfgCDc3EAfgCGdXEAfgCJAAAAA3NxAH4Ai3QABGphdmFzcQB+AIt0AARsYW5ncQB+AJBzcQB+AGN1cQB+AKcAAAAEc3EAfgB/dAADQXBwcQB+AIVzcQB+AH90AAtEZWxheWVkSW5pdHEAfgCFc3EAfgB/dAAGT2JqZWN0cQB+AKtzcQB+AH90AANBbnlxAH4AhXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGdvb2Rsb3Jkc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcv8xFEXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvYXJpdGhtZXRpY2JpcmQvRHJvcGJveC9Hb29kTG9yZHMvZXhwci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUrdw50+IFvgQnoa9ijWMTOkisxVk=
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjbxxbwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA7c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwkNOjWXQABm5vdGlmeXNxAH4ADFWJyPN0AAd1bmFwcGx5c3EAfgAMmCk3qnQAB2N1cnJpZWRzcQB+AAzbVdJodAAJc29sdXRpb25zc3EAfgAMWY4DonQABU90aGVyc3EAfgAMu70MRHQABHdhaXRzcQB+AAy0bZ3idAAOY29weSRkZWZhdWx0JDJzcQB+AAz2gzrgdAANJGFzSW5zdGFuY2VPZnNxAH4ADA3NDdp0AAdjb21wb3Nlc3EAfgAMNJsGunQAAmUxc3EAfgAMA24rFnQADHByb2R1Y3RBcml0eXNxAH4ADMR5TZF0AAdjaG9pY2Vzc3EAfgAMyMK8FnQABmVxdWFsc3NxAH4ADPiRcvV0AAZOdW1iZXJzcQB+AAxTm+8YdAADQWRkc3EAfgAM8JpKaHQADGFzSW5zdGFuY2VPZnNxAH4ADBYULS10AARFeHByc3EAfgAMABzEZHQADHN5bmNocm9uaXplZHNxAH4ADOOrQKV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMB7esp3QAB2FuZFRoZW5zcQB+AAzF1pVwdAAGdHVwbGVkc3EAfgAME+8k1XQAAk9wc3EAfgAMj9b/sXQACGNhbkVxdWFsc3EAfgAMMcURU3QAA011bHNxAH4ADMtY/Hh0AA1wcm9kdWN0UHJlZml4c3EAfgAMA8f2S3QACW5vdGlmeUFsbHNxAH4ADKrVnDl0AANvcHNzcQB+AAzL4eOLdAAMaXNJbnN0YW5jZU9mc3EAfgAMQeWSsnQABGV2YWxzcQB+AAwap/lgdAAGPGluaXQ+c3EAfgAMne+cLHQAB3Jlc3VsdHNzcQB+AAw3xxwWdAAMY29tYmluYXRpb25zc3EAfgAMMgANdHQABWFwcGx5c3EAfgAMgSxeKHQAAj09c3EAfgAMH/YmRXQABXNwbGl0c3EAfgAMDXJXGXQABWNsb25lc3EAfgAMPVpbo3QABiRpbml0JHNxAH4ADFtDSEd0AAV2YWxpZHNxAH4ADDWkekV0AAdjb21iaW5lc3EAfgAMtrcNgXQAA1N1YnNxAH4ADBUeLtR0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADCx+iut0AARjb3B5c3EAfgAMF/9c7XQAA2FwcHNxAH4ADBVS1l90AAh0b1N0cmluZ3NxAH4ADAFcx9l0AAIhPXNxAH4ADDnf+2t0AAVUZXN0MnNxAH4ADKPb+YR0AAhnZXRDbGFzc3NxAH4ADOg0c090AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNOhjaZ0AAZSZXN1bHRzcQB+AAwbplTpdAACZTJzcQB+AAzfPxlsdAACbmVzcQB+AAwnDKp5dAAFdmFsdWVzcQB+AAy9/UaZdAACZXFzcQB+AAzspvw9dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMvXObGnQAAiMjc3EAfgAMHP67Q3QACGZpbmFsaXplc3EAfgAMiPgiEHQAAW9zcQB+AAx3LXg0dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAy/1YZ0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCNeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOZ29vZGxvcmQuVGVzdDJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AjUwACWluaGVyaXRlZHEAfgCNTAAHcGFyZW50c3EAfgCNeHEAfgCqc3EAfgCldXEAfgCIAAAAAHNxAH4ApXVxAH4AiAAAAABzcQB+AKV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMNzcQB+ALZ0AANBbnlzcQB+ALpzcQB+AL11cQB+AMAAAAACc3EAfgDCdAAFc2NhbGFxAH4AyXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACGdvb2Rsb3Jkc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFcv8xFEXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvYXJpdGhtZXRpY2JpcmQvRHJvcGJveC9Hb29kTG9yZHMvZXhwci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUENf4TtbHkaTsORRtJHKs8pvFycc=
 external apis:
 0 items
 source infos:
 2 items
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Program.scala -> 
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Program.scala -> 
 AAAAAAAAAAA=
-/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/Test2.scala -> 
+/Users/arithmeticbird/Dropbox/GoodLords/expr/src/main/scala/goodlord/Test2.scala -> 
 AAAAAAAAAAA=
 compilations:
-15 items
+16 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLjcg1V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcml0aG1ldGljYmlyZC9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLjfjuF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcml0aG1ldGljYmlyZC9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLjoYDp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcml0aG1ldGljYmlyZC9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
@@ -313,3 +315,4 @@ compilations:
 12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLs6eHJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcml0aG1ldGljYmlyZC9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
 13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXLs8D2l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcml0aG1ldGljYmlyZC9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
 14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL1iqt91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9hcml0aG1ldGljYmlyZC9Ecm9wYm94L0dvb2RMb3Jkcy9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXL/MRRF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9hcml0aG1ldGljYmlyZC9Ecm9wYm94L0dvb2RMb3Jkcy9leHByL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

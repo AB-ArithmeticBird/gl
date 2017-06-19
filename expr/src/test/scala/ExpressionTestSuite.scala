@@ -1,4 +1,4 @@
-import Test2._
+import goodlord.Test2._
 import org.scalatest.FunSuite
 
 class ExpressionTestSuite extends FunSuite {

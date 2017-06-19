@@ -1,3 +1,5 @@
+package goodlord
+
 import scala.collection.immutable
 
 object Program extends App {
